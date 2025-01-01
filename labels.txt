@@ -1,0 +1,7 @@
+0 Healthy
+1 leafrust 25-40
+2 Leafrust 40-60
+3 leafrust 60-100
+4 leafspot 25-40
+5 leafspot 40-60
+6 leafspot 60-100
